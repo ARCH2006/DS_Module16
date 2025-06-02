@@ -15,8 +15,8 @@ To write a C function to perform right rotation in an AVL Tree.
 ```
 /*
 Program to perform right rotation in AVL Tree
-Developed by: AADITHYA R
-RegisterNumber: 212223240001
+Developed by:ARCHANA S
+RegisterNumber: 212223040019
 */
 /*
 typedef struct node
